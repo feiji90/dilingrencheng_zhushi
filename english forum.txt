@@ -1,14 +1,15 @@
 zhenshui
 a world when people knows they are in fiction world
 I wrote a novel with 220k words(in chinese) to build a world which some people in there know they are in a novel.
-It's not unusual, you know, kind of "breaks the fourth wall" stuff.
+It's not unusual, you know, kind of "breaks the fourth wall","" stuff.
 only but I dug a little deeper.
 I start to think "how it works in our reality",if someone among us knows(or guess/assume etc) this is a fiction world,what will he/she do?
-compare to reality,it's bascily has 3 type of reactions:
+compare to reality,it's bascily has 3 type of “high quality” reactions:
 1,trying to escape,back to reality——that's what most religious believers do,u know,The whole "ascending to heaven through the Last Judgment" thing.
 2,trying to refuse god(aka narrator\writer etc)come over the world,find ways to exile god.
 3,bargaining,to make use of god,that's most chinese do:since I can't escape,can't completely exile you,and neither can I obey u,so let's do some cooperation.
 I thought a while just now I wrote above,to be fair speaking,seems praying is another type of bargaining sometimes.the real belivers shouldn't pray for anything specific,they should only accept everything what god descends.
+(what I called "low quality" reactions including numbness, disregard, suicide, falling into a crisis of nihilism, or anyother non-constructive and negative reactions)
 anyway,since I'm chinese,I chose to think option 2,which is how I can exile the god.
 it's not easy you know,since narrator/author is the god himself,how can I imagine my charactors exile me myself?how can they do that?
 so I wrote a novel with 220k words in chinese(did I metioned before?) to analyse,deduce it,and I got the answer!
@@ -35,5 +36,17 @@ ok the last one is knotty ,I read the whole article,he do make some point and co
 let's do it one by one.
 I put the novel on https://github.com/feiji90/dilingrencheng_zhushi
 
+本作和SCP里的元叙事有何区别？SCP里的元叙事最大的问题是：缺乏建设性行为。即只将其当成一个客观事实并幻想与其相关的各种现象，但缺乏对这一现象的积极应对。
+meta-narrative元叙事 
 I'm a procrastinator
 again,220k chinese characters
+https://scp-wiki-cn.wikidot.com/narrativistics-and-you
+实体来到了上层叙事，攻击了位于我们之上的作者，也就是他的创造者。这种说法是不对的。这个异常肯定想攻击他的作者，这点我能肯定，但之后更有可能发生的事情其实是：作者实体创作了一位代理自己的伪作者，把他扔到下层去，让他代替自己挨揍。这样，作者就可以把3812写进-2层，再把代理作者写进-1层。实体成功扬升，达成目标，而这一切都在作者的掌控之下。
+
+那么，归根结底，这件事完全取决于作者本人，叙事存在根本没有展现出自我意志，别管他们感不感觉得到自己的意愿。角色所能拥有的意愿，必须是作者想要给予他们的意愿。意愿由作者传递给造物，而作者的意愿又来自更上一层的作者，如此就构成了一条逻辑链。
+
+在多元宇宙里面，唯独作者的想法是有意义的。确实啊，你们可能已经发现了，大家的日常生活里面就有很多不连贯的地方。今天休谟指数还是种可靠的衡量体系，但明天就不行了。怎么回事呢？形而上科学部的人有不同意见。一些人报告说是某种基本力被完全替代后的作用；另一些人则说他们发现了两种SCP-3125，一种是致命模因复合体，另一种神他妈居然是只海星。哎呀，全怪在不靠谱的作者头上不就行了嘛。作者可以搅乱你们的叙事连续性，也可以引入一些自相矛盾的规则。作者完全做得到。叙事一定会顺应作者的要求。
+
+但也别对作者太苛刻哦，毕竟他们也是按照其他作者的意愿行事的。其他作者也一样，其他作者上面的其他作者也一样。是诚无穷匮也。
+
+没错，这说明，任何存在都不具备自由意志和行动主体性，我们也一样。我们仅仅是链条上的一段，是万千创意世界中一段确定的循环，而其中的作者数量很可能是无尽的。一旦媒介发生波动，我们就会瞬间烟消云散。
