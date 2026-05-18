@@ -37,6 +37,22 @@ QED
 
 I'll talk about my novel more tomorrow if things go well.
 
+Continuing from the previous post>>25276171
+this time I'll solve the Newcomb's paradox, also adapted into the Roko's Basilisk problem in lesswrong forum.
+but before my solving begin,here is my novel I mentioned in >>25276171 https://github.com/feiji90/dilingrencheng_zhushi , didn't publish yet, I use this novel to answer/solve/prove some philosophy problems, but I don't recomment you to read it, cause it's very long(again, 220k chinese characters), and written by chinese, I planed to translate it into english, but due to my procrastination, I don't know when the translation work will start myself.
+so let's focus on the Newcomb's paradox, for ones who don't know this paradox, here is the content:
+>In the standard version of Newcomb's problem, two boxes are designated A and B. The player is given a choice between taking only box B or taking both boxes A and B. The player knows the following:
+
+>Box A is transparent, or open, and always contains a visible $1,000.
+>Box B is opaque, or closed, and its content has already been set by the predictor:
+>If the predictor has predicted that the player will take both boxes A and B, then box B contains nothing.
+>	If the predictor has predicted that the player will take only box B, then box B contains $1,000,000.
+>	The player does not know what the predictor predicted or what box B contains while making the choice.
+In my novel chapter 43, there is a concept called "Event Propagation Interface", which indicating a event has a propagation speed, you can only be sure it happens when it influence you. that is called it's interface has propagated on you. 
+so in this Newcomb's paradox, when you thought the money in the box is a determined event, it's not, because this event hasn't influenced you yet. the "Event Propagation Interface" was propagated on you only when you open the box. it's just like the Schrödinger's cat, you can only be sure when you open the box.
+also it has a explanation of narrator version in my novel chapter 43, that is the predictor is actually a narrator/author, when you made the choice, the author can modify the box setting in anytime. just like the author modifies the plot.
+so just choose the Box B and choose it only.
+
 >>25272203
 >I don't understand why God is necessary for objective morality
 >Unless people mean God = objective reality. Which we already have.
